@@ -27,3 +27,13 @@ p{
     margin: 5px;
 }
 
+h1{
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    color: blue;
+}
+
+body{
+    font-family: 'Crimson Text', serif;
+    color: red;
+}
