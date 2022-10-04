@@ -1,14 +1,15 @@
+.firsth2{
+    background-color: pink;
+}
 .heading{
     color: red;
+    background-color: blue;
 }
 
-.heading.london{
-    background-color: aqua;
-}
 .capitalPara{
     background-color: beige;
 }
 
-#h2background{
+/* #h2background{
     background-color: pink;
-}
+} */
