@@ -13,3 +13,17 @@
 /* #h2background{
     background-color: pink;
 } */
+
+span{
+    padding: 0px 5px; 
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+
+p{
+    border-style: ridge;
+    border-color: lightgreen;
+    border-width: 10px;
+    margin: 5px;
+}
+
