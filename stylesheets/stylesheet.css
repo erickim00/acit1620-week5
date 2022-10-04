@@ -2,6 +2,13 @@
     color: red;
 }
 
+.heading.london{
+    background-color: aqua;
+}
 .capitalPara{
     background-color: beige;
+}
+
+#h2background{
+    background-color: pink;
 }
